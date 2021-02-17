@@ -5,7 +5,7 @@
 # stub: devise_security_extension 0.8.3 ruby lib
 
 Gem::Specification.new do |s|
-  s.name = "devise_security_extension"
+  s.name = "devise_security_extension_old"
   s.version = "0.9.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
